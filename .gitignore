@@ -1,0 +1,11 @@
+
+.gitattributes
+build
+artifacts
+.idea/*
+node_modules/*
+contracts/flattened/*.sol
+yarn.lock
+NOTE_DEV_STAGING
+NOTE_PRODUCTION
+.env
